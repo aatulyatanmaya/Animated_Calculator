@@ -4,10 +4,10 @@ A modern, interactive calculator with smooth animations built using HTML, CSS, a
 
 ## Features
 
-- 🎯 Clean, modern user interface
-- ✨ Smooth animations and transitions
-- 📱 Responsive design
-- 🔢 Full calculator functionality
+- Clean, modern user interface
+- Smooth animations and transitions
+- Responsive design
+- Full calculator functionality
 
 ### Animations
 - Button press effects
